@@ -71,3 +71,8 @@ Fit a least-squares line, inspect residuals and see how slope and R² respond to
 A medical-test example showing why a positive result can still mean a low probability of disease.
 
 ![Bayes' theorem tool](screenshots/09-playground-bayes.png)
+
+### Quizzes & assessments
+A foundations diagnostic, one quiz per module and three difficulty-level assessments.
+
+![Quizzes and assessments](screenshots/10-quizzes.png)
