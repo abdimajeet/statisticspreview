@@ -46,3 +46,8 @@ Four phases — Foundations, Probability, Inference and Modelling — with why e
 Every lesson follows the same twelve-part structure, with an outline to jump between sections.
 
 ![Lesson page](screenshots/04-lesson.png)
+
+### Formulas
+Formulas rendered with KaTeX, each with its symbols explained.
+
+![Lesson formulas](screenshots/05-lesson-formulas.png)
