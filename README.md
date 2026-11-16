@@ -31,3 +31,8 @@ All screenshots are captured at 2× resolution (2880×1800 on desktop, 1170×253
 Progress overview, study streak, quiz average, the current module on the learning path and the recommended next lesson.
 
 ![Dashboard](screenshots/01-dashboard.png)
+
+### Courses
+All twelve modules with durations, completion state and sequential unlocking.
+
+![Courses](screenshots/02-courses.png)
