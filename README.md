@@ -92,3 +92,8 @@ Lessons completed per module, study days and accuracy by topic.
 ![Dashboard, light theme](screenshots/13-dashboard-light.png)
 
 ![Courses, light theme](screenshots/14-courses-light.png)
+
+### Google sign-in
+Lessons ask learners to sign in with Google so their progress is saved to their account.
+
+![Google sign-in](screenshots/15-sign-in.png)
