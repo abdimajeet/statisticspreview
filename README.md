@@ -56,3 +56,8 @@ Formulas rendered with KaTeX, each with its symbols explained.
 Step-by-step examples with real numbers, so every result can be reproduced by hand.
 
 ![Worked example](screenshots/06-worked-example.png)
+
+### Central Limit Theorem simulator
+5,000 sample means of size 30 drawn from a skewed population line up with the normal curve the CLT predicts.
+
+![Central Limit Theorem simulator](screenshots/07-playground-clt.png)
