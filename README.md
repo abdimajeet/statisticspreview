@@ -102,4 +102,6 @@ Lessons ask learners to sign in with Google so their progress is saved to their 
 
 <p>
   <img src="screenshots/16-mobile-dashboard.png" alt="Mobile dashboard" width="260">
+
+  <img src="screenshots/17-mobile-lesson.png" alt="Mobile lesson" width="260">
 </p>
