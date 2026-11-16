@@ -81,3 +81,8 @@ A foundations diagnostic, one quiz per module and three difficulty-level assessm
 Exercises with starter code, expected output, hints and full solutions using NumPy, pandas and scikit-learn.
 
 ![Python practice](screenshots/11-python-practice.png)
+
+### Learning record
+Lessons completed per module, study days and accuracy by topic.
+
+![Progress](screenshots/12-progress.png)
