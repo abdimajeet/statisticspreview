@@ -61,3 +61,8 @@ Step-by-step examples with real numbers, so every result can be reproduced by ha
 5,000 sample means of size 30 drawn from a skewed population line up with the normal curve the CLT predicts.
 
 ![Central Limit Theorem simulator](screenshots/07-playground-clt.png)
+
+### Linear regression visualiser
+Fit a least-squares line, inspect residuals and see how slope and R² respond to the data.
+
+![Linear regression visualiser](screenshots/08-playground-regression.png)
