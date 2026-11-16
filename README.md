@@ -51,3 +51,8 @@ Every lesson follows the same twelve-part structure, with an outline to jump bet
 Formulas rendered with KaTeX, each with its symbols explained.
 
 ![Lesson formulas](screenshots/05-lesson-formulas.png)
+
+### Worked examples
+Step-by-step examples with real numbers, so every result can be reproduced by hand.
+
+![Worked example](screenshots/06-worked-example.png)
