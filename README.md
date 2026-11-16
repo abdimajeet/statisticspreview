@@ -2,7 +2,7 @@
 
 A self-study web platform that teaches **statistics and probability from absolute beginner level up to the foundations needed for Machine Learning, AI and Data Science**. **Live site: [statistics-self-omega.vercel.app](https://statistics-self-omega.vercel.app/)**
 
-This repository is a visual preview of the app; the source code lives in [abdimajeet/statistics](https://github.com/abdimajeet/statistics).
+This repository is a visual preview of the app; the source code is kept in a private repository.
 
 ## Highlights
 
@@ -116,4 +116,4 @@ Open the live site at **[statistics-self-omega.vercel.app](https://statistics-se
 
 ## Source
 
-The full source code, setup guide and deployment instructions are in [abdimajeet/statistics](https://github.com/abdimajeet/statistics).
+The source code is kept in a private repository.
