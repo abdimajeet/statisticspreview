@@ -76,3 +76,8 @@ A medical-test example showing why a positive result can still mean a low probab
 A foundations diagnostic, one quiz per module and three difficulty-level assessments.
 
 ![Quizzes and assessments](screenshots/10-quizzes.png)
+
+### Python practice
+Exercises with starter code, expected output, hints and full solutions using NumPy, pandas and scikit-learn.
+
+![Python practice](screenshots/11-python-practice.png)
