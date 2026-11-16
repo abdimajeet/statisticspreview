@@ -97,3 +97,9 @@ Lessons completed per module, study days and accuracy by topic.
 Lessons ask learners to sign in with Google so their progress is saved to their account.
 
 ![Google sign-in](screenshots/15-sign-in.png)
+
+### Mobile
+
+<p>
+  <img src="screenshots/16-mobile-dashboard.png" alt="Mobile dashboard" width="260">
+</p>
