@@ -36,3 +36,8 @@ Progress overview, study streak, quiz average, the current module on the learnin
 All twelve modules with durations, completion state and sequential unlocking.
 
 ![Courses](screenshots/02-courses.png)
+
+### Learning roadmap
+Four phases — Foundations, Probability, Inference and Modelling — with why each module matters for machine learning.
+
+![Learning roadmap](screenshots/03-roadmap.png)
