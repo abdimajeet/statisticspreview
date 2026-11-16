@@ -27,3 +27,7 @@ A self-study web platform that teaches **statistics and probability from absolut
 
 All screenshots are captured at 2× resolution (2880×1800 on desktop, 1170×2532 on mobile) and show a demo learner partway through Module 3.
 
+### Dashboard
+Progress overview, study streak, quiz average, the current module on the learning path and the recommended next lesson.
+
+![Dashboard](screenshots/01-dashboard.png)
