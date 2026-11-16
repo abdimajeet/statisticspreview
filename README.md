@@ -104,4 +104,10 @@ Lessons ask learners to sign in with Google so their progress is saved to their 
   <img src="screenshots/16-mobile-dashboard.png" alt="Mobile dashboard" width="260">
 
   <img src="screenshots/17-mobile-lesson.png" alt="Mobile lesson" width="260">
+
+  <img src="screenshots/18-mobile-courses.png" alt="Mobile courses" width="260">
 </p>
+
+## Source
+
+The full source code, setup guide and deployment instructions are in [abdimajeet/statistics](https://github.com/abdimajeet/statistics).
