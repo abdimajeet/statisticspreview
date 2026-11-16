@@ -41,3 +41,8 @@ All twelve modules with durations, completion state and sequential unlocking.
 Four phases — Foundations, Probability, Inference and Modelling — with why each module matters for machine learning.
 
 ![Learning roadmap](screenshots/03-roadmap.png)
+
+### Lesson
+Every lesson follows the same twelve-part structure, with an outline to jump between sections.
+
+![Lesson page](screenshots/04-lesson.png)
