@@ -86,3 +86,7 @@ Exercises with starter code, expected output, hints and full solutions using Num
 Lessons completed per module, study days and accuracy by topic.
 
 ![Progress](screenshots/12-progress.png)
+
+### Light theme
+
+![Dashboard, light theme](screenshots/13-dashboard-light.png)
