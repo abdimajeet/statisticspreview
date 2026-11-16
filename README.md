@@ -66,3 +66,8 @@ Step-by-step examples with real numbers, so every result can be reproduced by ha
 Fit a least-squares line, inspect residuals and see how slope and R² respond to the data.
 
 ![Linear regression visualiser](screenshots/08-playground-regression.png)
+
+### Bayes' theorem
+A medical-test example showing why a positive result can still mean a low probability of disease.
+
+![Bayes' theorem tool](screenshots/09-playground-bayes.png)
