@@ -90,3 +90,5 @@ Lessons completed per module, study days and accuracy by topic.
 ### Light theme
 
 ![Dashboard, light theme](screenshots/13-dashboard-light.png)
+
+![Courses, light theme](screenshots/14-courses-light.png)
