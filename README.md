@@ -1,6 +1,8 @@
 # Statistics & Probability for ML Academy — Preview
 
-A self-study web platform that teaches **statistics and probability from absolute beginner level up to the foundations needed for Machine Learning, AI and Data Science**. This repository is a visual preview of the app; the source code lives in [abdimajeet/statistics](https://github.com/abdimajeet/statistics).
+A self-study web platform that teaches **statistics and probability from absolute beginner level up to the foundations needed for Machine Learning, AI and Data Science**. **Live site: [statistics-self-omega.vercel.app](https://statistics-self-omega.vercel.app/)**
+
+This repository is a visual preview of the app; the source code lives in [abdimajeet/statistics](https://github.com/abdimajeet/statistics).
 
 ## Highlights
 
@@ -107,6 +109,10 @@ Lessons ask learners to sign in with Google so their progress is saved to their 
 
   <img src="screenshots/18-mobile-courses.png" alt="Mobile courses" width="260">
 </p>
+
+## Try it
+
+Open the live site at **[statistics-self-omega.vercel.app](https://statistics-self-omega.vercel.app/)**. Browsing is open to everyone; sign in with Google to start lessons and save your progress.
 
 ## Source
 
